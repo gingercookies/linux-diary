@@ -1,3 +1,6 @@
+> [!NOTE]
+> Friday, 15/05/2026, the issues seem to be fixed, I don't notice any crash with Jamesdsp nor need to restart pipewire
+
 # Jamesdsp / Pipewire randomly cut off / crackling
  System Info:
  - Distro: Fedora Linux 42 (KDE Plasma Desktop Edition)
